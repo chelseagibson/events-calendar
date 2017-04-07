@@ -1,3 +1,46 @@
 html {
   font-family: "Merriweather", serif;
 }
+
+th {
+  border-bottom: 1px solid #ccc;
+  border-right: 1px solid #ccc;
+}
+
+td {
+  border-bottom: 1px solid #ccc;
+  border-right: 1px solid #ccc;
+  height: 9.8rem;
+}
+
+table {
+  border: 1px solid #ccc;
+}
+
+.green {
+  border: 1px solid #6b7e54;
+  border-radius: 8px;
+  background-color: #d1e0bf;
+  color: #51603f;
+}
+
+.grey {
+  border: 1px solid #666;
+  border-radius: 8px;
+  background-color: #f2f2f2;
+  color: #333;
+}
+
+.blue {
+  border: 1px solid #1d38da;
+  border-radius: 8px;
+  background-color: #d2d6f0;
+  color: #38448e;
+}
+
+.red {
+  border: 1px solid #b92828;
+  border-radius: 8px;
+  background-color: #f2bcbc;
+  color: #991919;
+}
